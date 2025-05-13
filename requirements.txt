@@ -1,0 +1,14 @@
+# Core dependencies
+torch>=1.9.0
+numpy>=1.19.2
+matplotlib>=3.3.2
+
+# Optional dependencies for development
+pytest>=6.0.0  # for testing
+black>=21.0.0  # for code formatting
+flake8>=3.9.0  # for linting
+mypy>=0.910    # for type checking
+
+# Documentation
+sphinx>=4.0.0  # for documentation generation
+sphinx-rtd-theme>=0.5.0  # for documentation theme 
